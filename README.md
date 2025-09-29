@@ -1,4 +1,4 @@
-# EXP-2
+<img width="2756" height="2389" alt="image" src="https://github.com/user-attachments/assets/30215db8-3c29-422c-9c68-752095f69ab6" /># EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 Aim:
@@ -49,15 +49,31 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
+<img width="1067" height="901" alt="image" src="https://github.com/user-attachments/assets/21bf1a52-cc47-4ec8-acff-68c03811b2e2" />
+
 Tabulation for Load Test:
 
+<img width="1112" height="874" alt="image" src="https://github.com/user-attachments/assets/b2527289-d43e-4164-8c8e-e823ddbcccc3" />
+
 Model graph:
+
+<img width="1067" height="308" alt="image" src="https://github.com/user-attachments/assets/52299431-984a-4809-9cdf-373f45ba2a03" />
+
 Calculation: 
+
+<img width="2443" height="3908" alt="image" src="https://github.com/user-attachments/assets/8bee9ac9-18b9-488e-8924-527378c15e43" />
+
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/bac0fb26-b38c-4a9f-a5ea-ce79c790bb21" />
 
 Open circuit characteristics
 
+<img width="2856" height="2189" alt="image" src="https://github.com/user-attachments/assets/0d709c89-db84-45f1-aad7-7c9a1e1b9466" />
+
+<img width="2797" height="611" alt="image" src="https://github.com/user-attachments/assets/c66a9c74-1518-4612-bc94-10e0e3235ce5" />
   
 Load Characteristics:
- 
+
+<img width="2756" height="2389" alt="image" src="https://github.com/user-attachments/assets/f7216f8a-fd70-4470-b556-0dd1a422880d" />
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
